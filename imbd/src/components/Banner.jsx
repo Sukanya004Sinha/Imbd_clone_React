@@ -5,8 +5,8 @@ import "./Banner.css"
 function Banner () {
   return (
     <>
-    <img src = {Image}/>
-    <div className="banner-head
+    
+  {/*  <div className="banner-head
   ">
     <div 
     className="
@@ -22,6 +22,8 @@ function Banner () {
     M3GAN
     </div>
     </div>
+  */}
+  <div className='bg-banner h-[40vh] bg-center bg-cover'></div>
     </>
   )
 }
