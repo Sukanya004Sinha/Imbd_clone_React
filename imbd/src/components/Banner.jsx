@@ -17,13 +17,20 @@ function Banner () {
     font-bold
     py-10
     bg-opacity-40
-    text-center"
-    >
+    text-center">
     M3GAN
     </div>
     </div>
   */}
-  <div className='bg-banner h-[40vh] bg-center bg-cover'></div>
+  <div className='bg-banner h-[40vh] 
+    bg-center bg-cover flex items-end'></div>
+    <div className='text-xl text-white 
+    bg-grey-900 p-6 
+    text-center
+    w-full
+    font-bold
+    '>
+    M3GAN</div>
     </>
   )
 }
