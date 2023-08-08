@@ -28,7 +28,6 @@ function Banner () {
     bg-grey-900 p-6 
     text-center
     w-full
-    font-bold
     '>
     M3GAN</div>
     </>
