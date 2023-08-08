@@ -9,6 +9,15 @@ function Movies() {
     <div className="flex 
     flex-wrap 
      justify-center">
+  
+     <div className='
+     bg-[url(https://image.tmdb.org/t/p/original//dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg)]
+     w-[160px]
+    h-[30vh]
+    m-4
+    rounded-xl
+    hover:scale-110
+    duration-300 border-4'></div>
     <img src={Image} className='w-[160px]
     h-[30vh] m-4 
     rounded-xl
